@@ -1,0 +1,56 @@
+body
+{
+    margin: 50px auto;
+    padding: 8px;
+    width: 50%;
+}
+hr
+{
+    border: 1px solid black;
+}
+.box
+{
+    position: absolute;
+    top: 2px;
+    left: 0;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    display: flex;
+
+}
+.box .imgBx
+{
+    float: right;
+    width: 350px;
+    height: px;
+    padding: 0 0 0 0;
+}
+.box .imgBx img
+{
+    max-width: 75%;
+}
+.box .content
+{
+    padding-right: 10px;
+}
+.box .heading
+{
+    margin: 2px;
+    padding-right: 2px;
+    font-size: 15px;
+    text-align: justify;
+}
+.box .content p
+{
+    margin: 0;
+    padding: 5px 0 0;
+    font-size: 16px;
+    text-align: justify;
+}
+.box .design
+{
+    text-align: center;
+    background: lightgoldenrodyellow;
+}
+
